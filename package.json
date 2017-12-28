@@ -1,5 +1,5 @@
 {
-  "name": "@softBrains/pdfmake",
+  "name": "@softbrains/pdfmake",
   "version": "0.1.35",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
